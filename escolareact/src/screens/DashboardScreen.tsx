@@ -40,7 +40,7 @@ export default function DashboardScreen() {
 
       try {
         const response = await fetch(
-          `http://192.168.137.1:3001/turmas/professor/${idProfessor}`
+          `http://192.168.137.1:3006/turmas/professor/${idProfessor}`
         );
         if (!response.ok) throw new Error("Falha ao carregar turmas");
         const dados = await response.json();
@@ -70,7 +70,7 @@ export default function DashboardScreen() {
       console.log("Tentando deletar turma com id:", idTurma);
 
       const response = await fetch(
-        `http://192.168.137.1:3001/turmas/${idTurma}`,
+        `http://192.168.137.1:3006/turmas/${idTurma}`,
         {
           method: "DELETE",
         }

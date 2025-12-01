@@ -51,7 +51,7 @@ export default function LoginScreen() {
         );
 
         Alert.alert("Sucesso", "Login realizado com sucesso!");
-        navigation.navigate("Dashboard"); // ⬅️ redirecionamento
+        navigation.navigate("Dashboard"); 
       } else {
         Alert.alert("Erro", result.message || "Email ou senha incorretos.");
       }
@@ -67,10 +67,10 @@ export default function LoginScreen() {
       style={styles.container}
     >
       <View style={styles.header}>
-        <Text style={styles.headerText}>Escola</Text>
+        <Text style={styles.headerText}>Bem vindo na Escola dos Sacanas!</Text>
       </View>
 
-      <Text style={styles.title}>Login</Text>
+   
 
       <View style={styles.form}>
         <Text style={styles.label}>Email:</Text>

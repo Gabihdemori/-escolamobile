@@ -9,7 +9,7 @@ app.use(express.json());
 
 app.use(routes);
 
-const PORTA = 3001;
+const PORTA = 3006;
 
 app.listen(PORTA, () => {
   console.log(`Servidor rodando na porta ${PORTA}`);
