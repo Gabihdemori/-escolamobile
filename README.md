@@ -84,17 +84,7 @@ O servidor estará disponível em `http://localhost:3001`.
 
 ### Tela de Login
 
-![tela login](https://github.com/GuilhermeCanina/escolamobile/blob/c475f948232a5819f28716e08f0f74a70c4fe222/imagens/login%20-%20tela.png)
-
-### Tela Dashboard
-
-![Dasboard](https://github.com/GuilhermeCanina/escolamobile/blob/142df146f98ec4134adf45d601392acdc8a8f1cf/imagens/dashboard%20-%20tela.png)
-
-### Tela Cadastro
-
-![Cadastro de Atividade](https://github.com/GuilhermeCanina/escolamobile/blob/142df146f98ec4134adf45d601392acdc8a8f1cf/imagens/Cadastrar%20Atividades%20-%20Tela.png)
-
-![Cadastro Turma](https://github.com/GuilhermeCanina/escolamobile/blob/142df146f98ec4134adf45d601392acdc8a8f1cf/imagens/Cadastrar%20Turma%20-%20Tela.png)
+![tela login]([https://github.com/GuilhermeCanina/escolamobile/blob/c475f948232a5819f28716e08f0f74a70c4fe222/imagens/login%20-%20tela.png](https://github.com/Gabihdemori/-escolamobile/blob/4ded1beadccc75620bc48e9ee971a078ec266f21/imagens/tela%20de%20login.png))
 
 ### Tela Atividades
 
